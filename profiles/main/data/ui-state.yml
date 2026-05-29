@@ -1,5 +1,6 @@
 Anthropic.claude-code: '{"settingsMigrated20251024":true,"lastClaudeLocationMigrated":true}'
 biomejs.biome: '{"alreadyTrustedBiomeDomain":true}'
+bmewburn.vscode-intelephense-client: '{"intelephense.licence.key":"00US30JPKYGFWWO","intelephenseVersion":"1.18.4"}'
 streetsidesoftware.code-spell-checker: '{"showDecorations":true}'
 workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.cspell-info-explorer","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.cspell-regexp-explorer","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.claude-sidebar","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.claude-sessions-sidebar","pinned":true,"visible":false,"order":11}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
@@ -130,7 +131,7 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeI
   Sessions","isBuiltin":false},{"id":"workbench.view.extension.claude-sidebar-secondary","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/anthropic.claude-code-2.1.156-linux-x64/resources/claude-logo.svg","scheme":"file"},"name":"Claude
   Code","isBuiltin":false,"views":[{"when":"!claude-code:doesNotSupportSecondarySidebar"}]}]'
 workbench.auxiliaryBar.size: "300"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["yaml",true],["jsonc",true],["markdown",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["yaml",true],["jsonc",true],["markdown",true],["properties",true],["json",true],["ignore",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false}]'
 workbench.newDefaultThemeNotification: "true"
 workbench.panel.alignment: center

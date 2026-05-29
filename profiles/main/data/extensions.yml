@@ -6,6 +6,8 @@ enabled:
     uuid: 1fbbc8b0-7432-4b7e-8774-3336151da2f3
   - id: biomejs.biome
     uuid: 2c992d35-3965-4369-856e-fdfbb0af2ce2
+  - id: bmewburn.vscode-intelephense-client
+    uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
   - id: bradlc.vscode-tailwindcss
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: Catppuccin.catppuccin-vsc
@@ -20,6 +22,8 @@ enabled:
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: felixfbecker.php-intellisense
+    uuid: 5e69f001-f945-4c97-baf0-320d82a153b3
   - id: formulahendry.auto-close-tag
     uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
   - id: johnbillion.vscode-wordpress-hooks
