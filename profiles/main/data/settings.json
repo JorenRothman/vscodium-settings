@@ -32,7 +32,7 @@
   "editor.stickyScroll.enabled": false,
   "files.trimTrailingWhitespace": true,
   "git.autofetch": true,
-  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "js/ts.preferences.importModuleSpecifier": "non-relative",
   "prettier.proseWrap": "always",
   "scm.defaultViewMode": "tree",
   "tailwindCSS.experimental.classRegex": [
@@ -40,8 +40,8 @@
     ["cx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"],
   ],
   "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
-  "typescript.preferences.preferTypeOnlyAutoImports": true,
-  "typescript.updateImportsOnFileMove.enabled": "always",
+  "js/ts.preferences.preferTypeOnlyAutoImports": true,
+  "js/ts.updateImportsOnFileMove.enabled": "always",
   "window.customTitleBarVisibility": "auto",
   "workbench.iconTheme": "catppuccin-macchiato",
   "workbench.startupEditor": "none",
@@ -163,4 +163,9 @@
   },
   "claudeCode.preferredLocation": "sidebar",
   "chat.disableAIFeatures": true,
+  "syncSettings.crons": {
+      "review": "0 * * * *",      // every hour
+      "download": "30 9 * * *",    // at 9:30, every day
+      "upload": "0 17 * * *"      // at 17:00, every day
+  },
 }
