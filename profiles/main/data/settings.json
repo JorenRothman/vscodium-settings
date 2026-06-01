@@ -169,4 +169,5 @@
   },
   "claudeCode.preferredLocation": "sidebar",
   "claudeCode.hideOnboarding": true,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
 }
