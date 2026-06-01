@@ -1,4 +1,4 @@
-Anthropic.claude-code: '{"settingsMigrated20251024":true,"lastClaudeLocationMigrated":true}'
+Anthropic.claude-code: '{"settingsMigrated20251024":true,"lastClaudeLocationMigrated":true,"experimentGates":{"tengu_vscode_review_upsell":false,"tengu_vscode_onboarding":false,"tengu_quiet_fern":true,"tengu_vscode_cc_auth":true,"tengu_slate_ribbon":true,"tengu_brick_follow":false,"tengu_vellum_siding":false,"tengu_auto_mode_state":"enabled"}}'
 biomejs.biome: '{"alreadyTrustedBiomeDomain":true}'
 bmewburn.vscode-intelephense-client: '{"intelephense.licence.key":"00US30JPKYGFWWO","intelephenseVersion":"1.18.4"}'
 golang.go: '{"go.extensionVersion":"0.40.0","telemetryStartTime":"2026-05-29T22:08:06.353Z","latestGoVersions":{"timestamp":1780092486353,"goVersions":[{"description":"download
@@ -136,8 +136,8 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeI
   !config.chat.disableAIFeatures"}]},{"id":"workbench.viewContainer.agentSessions","name":"Agent
   Sessions","isBuiltin":false},{"id":"workbench.view.extension.claude-sidebar-secondary","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/anthropic.claude-code-2.1.156-linux-x64/resources/claude-logo.svg","scheme":"file"},"name":"Claude
   Code","isBuiltin":false,"views":[{"when":"!claude-code:doesNotSupportSecondarySidebar"}]}]'
-workbench.auxiliaryBar.size: "560"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["properties",true],["ignore",true],["typescriptreact",true],["markdown",true],["go",true],["jsonc",true],["shellscript",true],["plaintext",true],["json",true],["typescript",true],["yaml",true]]'
+workbench.auxiliaryBar.size: "266"
+workbench.editor.languageDetectionOpenedLanguages.global: '[["ignore",true],["go",true],["jsonc",true],["json",true],["markdown",true],["yaml",true],["shellscript",true],["tailwindcss",true],["plaintext",true],["typescript",true],["typescriptreact",true],["php",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false}]'
 workbench.newDefaultThemeNotification: "true"
 workbench.panel.alignment: center
