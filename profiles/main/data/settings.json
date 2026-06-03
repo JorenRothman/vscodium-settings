@@ -163,9 +163,9 @@
   },
   "chat.disableAIFeatures": true,
   "syncSettings.crons": {
-      "review": "0 * * * *",      // every hour
-      "download": "30 9 * * *",    // at 9:30, every day
-      "upload": "0 17 * * *"      // at 17:00, every day
+    "review": "0 * * * *", // every hour
+    "download": "30 9 * * *", // at 9:30, every day
+    "upload": "0 17 * * *", // at 17:00, every day
   },
   "claudeCode.preferredLocation": "sidebar",
   "claudeCode.hideOnboarding": true,
