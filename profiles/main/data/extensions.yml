@@ -38,6 +38,8 @@ enabled:
     uuid: 07fc4a0a-11fc-4121-ba9a-f0d534c729d8
   - id: sleistner.vscode-fileutils
     uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
+  - id: SomewhatStationery.some-sass
+    uuid: 6d35099c-3671-464c-ac0b-34a0c3823927
   - id: streetsidesoftware.code-spell-checker
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
   - id: streetsidesoftware.code-spell-checker-australian-english
