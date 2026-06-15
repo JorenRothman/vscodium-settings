@@ -1,3 +1,4 @@
+Anthropic.claude-code: '{"settingsMigrated20251024":true,"lastClaudeLocationMigrated":true,"experimentGates":{"tengu_vscode_review_upsell":false,"tengu_vscode_onboarding":false,"tengu_quiet_fern":true,"tengu_vscode_cc_auth":true,"tengu_slate_ribbon":true,"tengu_brick_follow":false,"tengu_vellum_siding":false,"tengu_auto_mode_state":"enabled"},"showTerminalBanner":false}'
 biomejs.biome: '{"alreadyTrustedBiomeDomain":true}'
 bmewburn.vscode-intelephense-client: '{"intelephense.licence.key":"00US30JPKYGFWWO","intelephenseVersion":"1.18.4"}'
 golang.go: '{"go.extensionVersion":"0.40.0","telemetryStartTime":"2026-05-29T22:08:06.353Z","latestGoVersions":{"timestamp":1781361139044,"goVersions":[{"description":"download
