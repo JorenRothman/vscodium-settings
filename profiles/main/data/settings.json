@@ -88,7 +88,7 @@
   "[properties]": {
     "editor.defaultFormatter": "foxundermoon.shell-format",
   },
-  "diffEditor.ignoreTrimWhitespace": true,
+  "diffEditor.ignoreTrimWhitespace": false,
   "[twig]": {
     "editor.defaultFormatter": "mblode.twig-language-2",
   },
