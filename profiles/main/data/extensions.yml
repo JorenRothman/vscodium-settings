@@ -1,3 +1,6 @@
+builtin:
+  disabled:
+    - vscode.php-language-features
 disabled: []
 enabled:
   - id: astro-build.astro-vscode
@@ -34,6 +37,10 @@ enabled:
     uuid: beb68b20-7c55-471c-9b63-3486f9423566
   - id: pflannery.vscode-versionlens
     uuid: 07fc4a0a-11fc-4121-ba9a-f0d534c729d8
+  - id: ReprEng.csv
+    uuid: f2e80b0c-f33b-40ca-a3a5-bdaf53823a83
+  - id: sissel.shopify-liquid
+    uuid: f3560213-6ed6-4eae-a871-31b51f152516
   - id: sleistner.vscode-fileutils
     uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
   - id: SomewhatStationery.some-sass
