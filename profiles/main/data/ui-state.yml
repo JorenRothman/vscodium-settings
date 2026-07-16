@@ -129,7 +129,7 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeI
   Sessions","isBuiltin":false},{"id":"workbench.view.extension.claude-sidebar-secondary","name":"Claude
   Code","isBuiltin":false}]'
 workbench.auxiliaryBar.size: "216"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["markdown",true],["dotenv",true],["javascript",true],["typescript",true],["typescriptreact",true],["json",true],["tailwindcss",true],["jsonc",true],["twig",true],["plaintext",true],["scss",true],["php",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["dotenv",true],["javascript",true],["typescript",true],["typescriptreact",true],["json",true],["tailwindcss",true],["jsonc",true],["twig",true],["scss",true],["plaintext",true],["git-commit",true],["php",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"claudeVSCodeSidebarSecondary","isHidden":false},{"id":"claudeVSCodeSidebar","isHidden":false},{"id":"claudeVSCodeSessionsList","isHidden":false}]'
 workbench.newDefaultThemeNotification: "true"
 workbench.panel.alignment: center
