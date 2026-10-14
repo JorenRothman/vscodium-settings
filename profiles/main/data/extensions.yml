@@ -23,6 +23,8 @@ enabled:
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: janisdd.vscode-edit-csv
+    uuid: 72e9b049-d75d-415c-96e1-d6e74f0e3074
   - id: johnbillion.vscode-wordpress-hooks
     uuid: bd3a577b-547f-4b5c-826a-9be782edabe8
   - id: mblode.twig-language-2
