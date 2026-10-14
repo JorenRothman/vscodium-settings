@@ -121,10 +121,10 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeI
   && !chatAccountPolicyGateActive || chatPanelParticipantRegistered &&
   !chatAccountPolicyGateActive || !chatAccountPolicyGateActive &&
   !chatSetupDisabledInWorkspace && !chatSetupHidden &&
-  !config.chat.disableAIFeatures"}]},{"id":"workbench.view.extension.claude-sidebar-secondary","name":"Claude
+  !config.chat.disableAIFeatures"},{"when":"managedSettingsUpdateRequired"}]},{"id":"workbench.view.extension.claude-sidebar-secondary","name":"Claude
   Code","isBuiltin":false}]'
 workbench.auxiliaryBar.size: "266"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["dotenv",true],["javascript",true],["dockerfile",true],["shellscript",true],["properties",true],["plaintext",true],["json",true],["typescript",true],["typescriptreact",true],["scss",true],["php",true],["twig",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["dotenv",true],["javascript",true],["dockerfile",true],["properties",true],["typescript",true],["typescriptreact",true],["php",true],["plaintext",true],["twig",true],["shellscript",true],["scss",true],["json",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false}]'
 workbench.newDefaultThemeNotification: "true"
 workbench.panel.alignment: center
