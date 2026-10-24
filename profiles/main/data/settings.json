@@ -170,8 +170,5 @@
   "claudeCode.preferredLocation": "sidebar",
   "claudeCode.hideOnboarding": true,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
-  "[nix]": {
-    "editor.defaultFormatter": "jnoortheen.nix-ide"
-  },
   "workbench.experimental.modernUI": false,
 }
